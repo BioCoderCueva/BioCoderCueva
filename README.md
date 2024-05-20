@@ -19,14 +19,14 @@ Investigador en Neuroingeniería Biomédica en la Universidad Miguel Hernández 
   <tr>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/numpy.png" width="40" height="40"/><br><strong>NumPy</strong></td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/pandas.png" width="40" height="40"/><br><strong>Pandas</strong></td>
-    <td align="center"><img src="https://raw.github.com/neuropsychology/NeuroKit/master/docs/img/banner.png" width="85" height="40"/><br><strong>Neurokit2</strong></td>
-    <td align="center"><img src="https://github.com/ultralytics/assets/raw/main/social/ultralytics-icon.png" width="40" height="40"/><br><strong>YOLOv8</strong></td>
+    <td align="center"><img src="https://raw.github.com/neuropsychology/NeuroKit/master/docs/img/banner.png" width="100" height="40"/><br><strong>Neurokit2</strong></td>
+    <td align="center"><img src="https://repository-images.githubusercontent.com/535360445/2a2c855b-932c-4625-a30d-3a0b475f1051" width="95" height="40"/><br><strong>YOLOv8</strong></td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/opencv.png" width="40" height="40"/><br><strong>OpenCV (Cv2)</strong></td>
-    <td align="center"><img src="https://matplotlib.org/stable/_static/images/logos/logo2.svg" width="40" height="40"/><br><strong>Matplotlib</strong></td>
+    <td align="center"><img src="https://matplotlib.org/_static/logo2.svg" width="80" height="50"/><br><strong>Matplotlib</strong></td>
     <td align="center"><img src="https://raw.githubusercontent.com/scipy/scipy/master/doc/source/_static/logo.svg" width="40" height="40"/><br><strong>SciPy</strong></td>
-    <td align="center"><img src="https://jupyter.org/assets/main-logo.svg" width="40" height="40"/><br><strong>Jupyter Notebooks</strong></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40"/><br><strong>Jupyter Notebooks</strong></td>
   </tr>
 </table>
 
