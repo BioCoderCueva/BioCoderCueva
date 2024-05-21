@@ -31,8 +31,9 @@ Investigador en Neuroingeniería Biomédica en la Universidad Miguel Hernández 
 </table>
 
 ## 📫 Cómo contactarme
-- **Correo:** alejocueva2012@gmail.com
-- **LinkedIn:** [Tu Perfil](https://www.linkedin.com/in/tu-perfil/)
+- <img src="https://img.icons8.com/color/48/000000/gmail.png" width="20" height="20"/> alejocueva2012@gmail.com
+- <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20" height="20"/> [Mi Perfil](https://www.linkedin.com/in/tu-perfil/)
+
 
 ## 🌐 Proyectos y Contribuciones
 - [Proyecto 1: Monitoreo de Señales Fisiológicas](https://github.com/tu-usuario/proyecto1)
