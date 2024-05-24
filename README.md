@@ -39,11 +39,5 @@ Investigador en Neuroingeniería Biomédica en la Universidad Miguel Hernández 
 - <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20" height="20"/> [Mi Perfil](www.linkedin.com/in/alejandro-cueva-garces)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="20" height="20"/> [BioCoderCueva](https://alejo-.notion.site/BioCoderCueva-e221a0d111bb4f999e0834c66d801811?pvs=4)
 
-
-## 🌐 Proyectos y Contribuciones
-- [Proyecto 1: Monitoreo de Señales Fisiológicas](https://github.com/tu-usuario/proyecto1)
-- [Proyecto 2: AI para Body Tracking](https://github.com/tu-usuario/proyecto2)
-- [Proyecto 3: Análisis de Visión por Computador](https://github.com/tu-usuario/proyecto3)
-
 Estoy siempre abierto a colaborar en proyectos interesantes y aprender nuevas tecnologías. ¡No dudes en contactarme!
 
