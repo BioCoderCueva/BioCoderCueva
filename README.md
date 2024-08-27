@@ -37,7 +37,6 @@ Investigador en Neuroingeniería Biomédica en la Universidad Miguel Hernández 
 ## 📫 Cómo contactarme
 - <img src="https://img.icons8.com/color/48/000000/gmail.png" width="20" height="20"/> alejocueva2012@gmail.com
 - <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20" height="20"/> [Mi Perfil](www.linkedin.com/in/alejandro-cueva-garces)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="20" height="20"/> [BioCoderCueva](https://alejo-.notion.site/BioCoderCueva-e221a0d111bb4f999e0834c66d801811?pvs=4)
 
 Estoy siempre abierto a colaborar en proyectos interesantes y aprender nuevas tecnologías. ¡No dudes en contactarme!
 
