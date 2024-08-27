@@ -4,7 +4,7 @@ Investigador en Neuroingeniería Biomédica en la Universidad Miguel Hernández 
 
 ## 🧬 Sobre mí
 - 🎓 Biólogo y Máster en Biotecnología y Bioingeniería por las universidades de Alicante y Miguel Hernández.
-- 🧠 Trabajo en el grupo de Neuroingeniería Biomédica, investigando patologías visuales y su impacto en la calidad de vida.
+- 🧠 Trabajo en el grupo de Neuroprotesis Corticales, investigando patologías visuales y su impacto en la calidad de vida.
 - 💻 Programador en Python, con experiencia en análisis de señales fisiológicas y visión por computador.
 
 ## 🛠️ Habilidades
